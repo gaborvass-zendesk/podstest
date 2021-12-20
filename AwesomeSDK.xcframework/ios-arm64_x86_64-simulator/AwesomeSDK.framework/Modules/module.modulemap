@@ -1,0 +1,6 @@
+framework module AwesomeSDK {
+  umbrella header "AwesomeSDK.h"
+
+  export *
+  module * { export * }
+}
